@@ -41,7 +41,7 @@
   }
 
   if(/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent)){
-	$('.down-btn').attr('href','itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/zuanqianqianapp/3522972578/master/PropertyList.plist');
+	$('.down-btn').attr('href','https://3522972578.app2.cn');
 	console.log(1)
   }
 }
@@ -68,9 +68,9 @@ checkPlatform();
     
     if (browser.versions.weixin) {
       if(browser.versions.ios||browser.versions.iphone||browser.versions.ipad){
-        $('#ios').show();
+          $('#az').show();
 		$('#screen').show();
-		
+
       }
       else{
         $('#az').show();
@@ -90,11 +90,11 @@ checkPlatform();
       else if(browser.versions.ios||browser.versions.iphone||browser.versions.ipad){
         var urlParams=new UrlParameters();
         if(typeof urlParams!="undefined" && ((urlParams.tableId && 0 != urlParams.tableId) || (urlParams.opType && 0 != urlParams.opType))){
-		openApp(urlParams.AppName,urlParams.tableId,urlParams.refresh);  
+		openApp(urlParams.AppName,urlParams.tableId,urlParams.refresh);
         }
         $('#ios').show();
 		$('#screen').show();
-		
+
       }
       else{
         $('#az').show();
