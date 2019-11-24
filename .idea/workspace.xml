@@ -1,54 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="998377a6-5fa1-48aa-a55e-4730f2c9595f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/PropertyList.plist" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/css/reset.css" afterPath="$PROJECT_DIR$/css/reset.css" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/swiper.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/a1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/a2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/a3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b8.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b_02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b_04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b_06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b_08.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b_09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b_10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b_12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/bj.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/download.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/ios.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/font.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.js" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change beforePath="$PROJECT_DIR$/js/screen.js" afterPath="$PROJECT_DIR$/js/screen.js" />
-      <change beforePath="$PROJECT_DIR$/resources/1448588109633846.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/1451458631463625.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/bottom_bg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/download.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/g.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/icon_android.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/icon_erwei_small.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/icon_ios.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/jquery-1.8.0.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/stars.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resources/weixin-tip.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/以前的版本/index.html" afterPath="" />
-    </list>
+    <list default="true" id="998377a6-5fa1-48aa-a55e-4730f2c9595f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -207,12 +160,12 @@
       <workItem from="1574054848022" duration="977000" />
       <workItem from="1574104067125" duration="862000" />
       <workItem from="1574414492227" duration="1676000" />
-      <workItem from="1574606130526" duration="318000" />
+      <workItem from="1574606130526" duration="380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4932000" />
+    <option name="totallyTimeSpent" value="4994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="388" y="107" width="1151" height="868" extended-state="0" />
